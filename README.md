@@ -1,6 +1,6 @@
 Hello, I am Riya Barapatre
 
-I am proficient in Python, Data Structures, SQL, Power BI, Tableau, HTML, Azure Databricks, and AWS EC2. Additionally, I possess strong software development engineering (SDE) skills, including proficiency in designing, developing, and deploying scalable applications.
+I am proficient in Python, Java, Data Structures, SQL, Power BI, Tableau, HTML, Azure Databricks, and AWS EC2. Additionally, I possess strong software development engineering (SDE) skills, including proficiency in designing, developing, and deploying scalable applications.
 
 My experience at Cognizant as a Programmer Analyst Trainee has equipped me with a solid foundation in analyzing complex data sets, developing efficient software solutions, and solving intricate problems. I have successfully collaborated with cross-functional teams on diverse projects, demonstrating my ability to adapt and thrive in dynamic environments.
 
